@@ -1,0 +1,30 @@
+{
+  "name": "@dchwilk/primevideotb",
+  "appName": "PrimeVideoTB",
+  "version": "1.0.0",
+  "description": "Amazon Prime Video app with enhanced features and ad blocking",
+  "packageType": "mods",
+  "websiteURL": "https://www.primevideo.com",
+  "main": "scripts/userScript.js",
+  "author": "Ygreck",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious",
+    "ArrowUp",
+    "ArrowDown",
+    "ArrowLeft",
+    "ArrowRight",
+    "Enter",
+    "Escape"
+  ],
+  "repository": {
+    "url": "https://github.com/dchwilk/PrimeVideoTB"
+  },
+  "license": "GPL-3.0-only"
+}
