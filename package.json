@@ -1,7 +1,7 @@
 {
   "name": "@dchwilk/primevideotb",
   "appName": "PrimeVideoTB",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amazon Prime Video app with enhanced features and ad blocking",
   "packageType": "mods",
   "websiteURL": "https://www.primevideo.com",
@@ -15,13 +15,7 @@
     "MediaFastForward",
     "MediaRewind",
     "MediaTrackNext",
-    "MediaTrackPrevious",
-    "ArrowUp",
-    "ArrowDown",
-    "ArrowLeft",
-    "ArrowRight",
-    "Enter",
-    "Escape"
+    "MediaTrackPrevious"
   ],
   "repository": {
     "url": "https://github.com/dchwilk/PrimeVideoTB"
